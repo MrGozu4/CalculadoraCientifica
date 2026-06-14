@@ -1,4 +1,4 @@
-import math
+# Version 2 - Operaciones cientificas completas
 
 # ============================================
 #   CALCULADORA CIENTÍFICA - Python
